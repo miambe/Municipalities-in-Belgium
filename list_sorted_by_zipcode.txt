@@ -1,4 +1,4 @@
-COMMUNE	CP
+Municipality	ZipCode
 Bruxelles	1000
 Schaerbeek	1030
 Etterbeek	1040
